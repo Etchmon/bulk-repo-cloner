@@ -11,7 +11,7 @@ This script allows you to mass clone all repositories from a specified GitHub us
 
 ### 1. Clone the Repository
 
-```
+```bash
 git clone https://github.com/Etchmon/bulk-repo-cloner.git
 cd bulk-repo-cloner
 ```
